@@ -1,13 +1,15 @@
-<img align="left" src="assets/Nomad.gif" height="175" width="350">
-
-### Hi there 👋
+<div align="left">
+<img align="left" src="assets/Nomad.gif" height="140" width="280">
+  
+# Hi there 👋
 
 I Love the programming language C and have been programming in it for more than 5 years and am now a C/C++ tutor)
 
-I'm studying Applied Mathematics and Computer Science at ITMO University.
+I'm studying Applied Mathematics and Computer Science at ITMO University.   
+</div> 
+
 
 ---
-
 Technology stack:
 * **C/C++** - sufficient knowledge for advanced programming
 * **Qt** - sufficient knowledge for programming simple apps
@@ -23,6 +25,7 @@ Other useful skills:
 * Teamwork - captain of the command many times
 
 - OpenMP, Windows api (COM-Port, TCP), UTF-8/16/32, JSON
+  
 ---
 
 Links:
@@ -32,16 +35,19 @@ Links:
 * [RESUME](https://shorturl.at/ovAR1)
 
 ---
-
+<!---
 <div align="center">
   <a href="https://github.com/Nomad192"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nomad192&theme=nord_dark"/></a>
 </div> 
+--->
 
 <div align="center">
-<a href="https://github.com/Nomad192"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Nomad192&theme=github_dark&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="180px"/></a>
-<a href="https://github.com/Nomad192"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nomad192&hide=Makefile,Cmake,QMake&langs_count=8&layout=compact&theme=github_dark&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="180px"/></a>
+<a href="https://github.com/Nomad192"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Nomad192&theme=github_dark&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="225px"/></a>
+<a href="https://github.com/Nomad192"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nomad192&hide=Makefile,Cmake,QMake&langs_count=8&layout=compact&theme=github_dark&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="225px"/></a>
 </div>
 
-See you soon
+[<img src='assets/gmail.svg' alt='GMail' height='40'>](mailto:verenya08@gmail.com)
+[<img src='assets/telegram.svg' alt='Telegram' height='40'>](https://t.me/Andrey_Verenya)
+[<img src='assets/code-forces.svg' alt='Codeforces' height='40'>](https://codeforces.com/profile/Nomadict)
 
 ![Profile views](https://gpvc.arturio.dev/Nomad192)  
