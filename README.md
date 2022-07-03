@@ -8,8 +8,11 @@ I Love the programming language C and have been programming in it for more than 
 I'm studying Applied Mathematics and Computer Science at ITMO University.   
 </div> 
 
-
 ---
+
+[<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nomad192&theme=nord_dark" width="100%">](https://github.com/Nomad192)
+&nbsp;
+
 Technology stack:
 * **C/C++** - sufficient knowledge for advanced programming
 * **Qt** - sufficient knowledge for programming simple apps
@@ -28,26 +31,30 @@ Other useful skills:
   
 ---
 
+<!---
 Links:
+* [RESUME](https://shorturl.at/ovAR1)
 * Mail:       [verenya08@gmail.com](mailto:verenya08@gmail.com) 
 * Telegram:   [Andrey_Verenya](https://t.me/Andrey_Verenya)
 * Code-forces: [Nomadict](https://codeforces.com/profile/Nomadict)
-* [RESUME](https://shorturl.at/ovAR1)
 
 ---
-<!---
-<div align="center">
-  <a href="https://github.com/Nomad192"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nomad192&theme=nord_dark"/></a>
-</div> 
 --->
 
 <div align="center">
-<a href="https://github.com/Nomad192"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Nomad192&theme=github_dark&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="180px"/></a>
-<a href="https://github.com/Nomad192"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nomad192&hide=Makefile,Cmake,QMake&langs_count=8&layout=compact&theme=github_dark&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="180px"/></a>
+<a href="https://github.com/Nomad192"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Nomad192&theme=github_dark&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" width="57%"/></a>
+<a href="https://github.com/Nomad192"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nomad192&hide=Makefile,Cmake,QMake&langs_count=8&layout=compact&theme=github_dark&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" width="42%"/></a> <!--- height="180px" --->
 </div>
+
+<!---
+| [<img src='assets/gmail.svg' alt='GMail' height='40'>](mailto:verenya08@gmail.com) | [<img src='assets/telegram.svg' alt='Telegram' height='40'>](https://t.me/Andrey_Verenya) | [<img src='assets/code-forces.svg' alt='Codeforces' height='40'>](https://codeforces.com/profile/Nomadict) |
+|-|-|-|
+|verenya08@gmail.com|Andrey_Verenya|Nomadict|
+--->
 
 [<img src='assets/gmail.svg' alt='GMail' height='40'>](mailto:verenya08@gmail.com)
 [<img src='assets/telegram.svg' alt='Telegram' height='40'>](https://t.me/Andrey_Verenya)
 [<img src='assets/code-forces.svg' alt='Codeforces' height='40'>](https://codeforces.com/profile/Nomadict)
+[<img src='assets/resume.gif' alt='Resume' height='40'>](https://shorturl.at/ovAR1)
 
 ![Profile views](https://gpvc.arturio.dev/Nomad192)  
