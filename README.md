@@ -11,7 +11,7 @@ I'm studying Applied Mathematics and Computer Science at ITMO University.
 ---
 
 [<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nomad192&theme=nord_dark" width="100%">](https://github.com/Nomad192)
-[<img align="right" src="https://api.githubtrends.io/user/svg/Nomad192/langs?time_range=one_year&loc_metric=changed&theme=dark" width="40%">](https://githubtrends.io)
+[<img align="right" src="https://api.githubtrends.io/user/svg/Nomad192/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" width="40%">](https://githubtrends.io)
 &nbsp;
 
 Technology stack:
