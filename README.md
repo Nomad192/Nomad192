@@ -56,6 +56,6 @@ Links:
 [<img src='assets/gmail.svg' alt='GMail' height='40'>](mailto:verenya08@gmail.com)
 [<img src='assets/telegram.svg' alt='Telegram' height='40'>](https://t.me/Andrey_Verenya)
 [<img src='assets/code-forces.svg' alt='Codeforces' height='40'>](https://codeforces.com/profile/Nomadict)
-[<img src='assets/resume.gif' alt='Resume' height='40'>](https://shorturl.at/ovAR1)
+[<img src='assets/resume.gif' alt='Resume' height='40'>](https://docs.google.com/document/d/1TAJid8QuppJ0793Rt6CTk9L0S1uTJeOsn79K6Q2dy1M/edit?usp=sharing)
 
 ![Profile views](https://gpvc.arturio.dev/Nomad192)  
