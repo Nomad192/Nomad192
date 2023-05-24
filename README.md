@@ -3,9 +3,13 @@
   
 # Hi there 👋
 
-I Love the programming language C and have been programming in it for more than 5 years and am now a C/C++ tutor)
+I Love the programming languages C/C++ and have been programming in it for more than 6 years and am now a C/C++ tutor)
 
 I'm studying Applied Mathematics and Computer Science at ITMO University.   
+  
+## [My education projects](https://github.com/Nomad192-educational-projects)
+## [My student projects](https://github.com/Nomad192-student-projects-ct-itmo)
+  
 </div> 
 
 ---
