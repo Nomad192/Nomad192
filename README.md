@@ -29,7 +29,7 @@ Other useful skills:
 * IoT dev - Arduino/ESP - [CanSat](http://roscansat.com/) finalist team (2019)
 * Git, Cmake, Markdown - widespread use
 * Neural Networks for python (Basic)
-* English level A2, Pre-Intermediate
+* English level B1, Intermediate
 * Teamwork - captain of the command many times
 
 - OpenMP, Windows api (COM-Port, TCP), UTF-8/16/32, JSON
