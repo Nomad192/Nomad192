@@ -3,7 +3,7 @@
   
 # Hi there 👋
 
-I Love the programming languages C/C++ and have been programming in it for more than 7 years and am now a C/C++ tutor)
+I Love the programming languages C/C++ and have been programming in it for more than 8 years and am now a C/C++ tutor)
 
 I'm studying Applied Mathematics and Computer Science at ITMO University.   
   
